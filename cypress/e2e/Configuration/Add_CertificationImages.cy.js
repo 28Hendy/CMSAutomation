@@ -1,4 +1,4 @@
-import ProfileContentManagement from "../../../pages/Profile Content Management"
+import ProfileContentManagement from "../../pages/Profile Content Management"
 
 describe('Add Certification Images data',() => {
     const Name = Cypress.env('Certification_Name')

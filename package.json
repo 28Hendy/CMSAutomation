@@ -17,7 +17,7 @@
   "author": "Hendy",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.9.0",
+    "cypress": "^12.17.4",
     "mocha": "^10.2.0",
     "mochawesome-merge": "^4.3.0"
   }

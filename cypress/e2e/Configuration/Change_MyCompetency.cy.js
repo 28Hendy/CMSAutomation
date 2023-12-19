@@ -1,5 +1,5 @@
-import Homepage from "../../../pages/Homepage"
-import MyCompetency from "../../../pages/My Competency"
+import Homepage from "../../pages/Homepage"
+import MyCompetency from "../../pages/My Competency"
 
 describe('Change My Competency',() => {
     before('Login CMS', () =>{

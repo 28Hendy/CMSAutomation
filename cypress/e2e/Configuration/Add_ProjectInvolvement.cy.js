@@ -1,4 +1,4 @@
-import ProfileContentManagement from "../../../pages/Profile Content Management"
+import ProfileContentManagement from "../../pages/Profile Content Management"
 
 describe('Add Project Involvement data',() => {
     const Name = Cypress.env('Project_Name')
