@@ -1,4 +1,4 @@
-class ProfileCOntentManagement{
+class ProfileContentManagement{
     btn_logout(){
         return cy.get('#logout-btn')
     }
@@ -151,4 +151,4 @@ class ProfileCOntentManagement{
         return cy.get('.jqgfirstrow')
     }
 }
-module.exports = new ProfileCOntentManagement();
+module.exports = new ProfileContentManagement();

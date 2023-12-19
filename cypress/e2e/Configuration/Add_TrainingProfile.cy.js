@@ -1,4 +1,4 @@
-import ProfileContentManagement from "../../../pages/Profile Content Management"
+import ProfileContentManagement from "../../pages/Profile Content Management"
 
 describe('Add Training & Courses data',() => {
     const Topic = Cypress.env('Training_Topic')

@@ -1,4 +1,4 @@
-import ProfileContentManagement from "../../../pages/Profile Content Management"
+import ProfileContentManagement from "../../pages/Profile Content Management"
 
 describe('Add language data',() => {
     const Name = Cypress.env('Language_Name')

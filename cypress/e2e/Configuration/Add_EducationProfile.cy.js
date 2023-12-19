@@ -1,4 +1,4 @@
-import ProfileContentManagement from "../../../pages/Profile Content Management"
+import ProfileContentManagement from "../../pages/Profile Content Management"
 
 describe('Add Education Profile data',() => {
     const Institutions = Cypress.env('Education_Institution')
