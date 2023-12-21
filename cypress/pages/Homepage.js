@@ -42,6 +42,18 @@ class Homepage{
     menu_ProfileContainMaintenance(){
         return cy.contains('Profile Content Maintenance')
     }
+
+    btn_CompetencyView(){
+        return cy.contains('Competency View')
+    }
+
+    menu_AllView(){
+        return cy.contains('All View')
+    }
+
+    menu_CompetencyChart(){
+        return cy.contains('Competency Chart')
+    }
 }
 
 module.exports = new Homepage();
